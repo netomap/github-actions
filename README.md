@@ -10,9 +10,11 @@
 
 2) Para fazer o agendamento através de horas, pode ser utilizado o seguinte site que ajuda a criar o padrão: [crontab.guru](https://crontab.guru/).  
 
-3) Caso precise usar variáveis de ambiente, onde é necessário guardar senhas de apis, banco de dados, etc.. então siga o procedimento conforme a figura:  
+3) Criar o [requirements.txt](requirements.txt) para que a aplicação rode com todos os pacotes python instalados.
+
+4) Caso precise usar variáveis de ambiente, onde é necessário guardar senhas de apis, banco de dados, etc.. então siga o procedimento conforme a figura:  
 
 ![figura1](/figuras/figura1.png)
 
-4) O tutorial em https://www.youtube.com/watch?v=PaGp7Vi5gfM é excelente e ajudou muito para começar a aprender sobre github actions.  
+5) O tutorial em https://www.youtube.com/watch?v=PaGp7Vi5gfM é excelente e ajudou muito para começar a aprender sobre github actions.  
 
