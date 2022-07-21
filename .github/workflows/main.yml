@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '@hourly' # roda toda hora. 
+    - cron: '0 * * * *' # roda toda hora. 
 
 jobs:
   build:
