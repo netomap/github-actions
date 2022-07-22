@@ -16,5 +16,9 @@
 
 ![figura1](/figuras/figura1.png)
 
-5) O tutorial em https://www.youtube.com/watch?v=PaGp7Vi5gfM é excelente e ajudou muito para começar a aprender sobre github actions.  
+5) Se for necessário desabilitar o serviço de actions por um tempo, pode ser feito conforme a figura mostra:  
 
+![figura2](/figuras/figura2.png)
+
+
+6) O tutorial em https://www.youtube.com/watch?v=PaGp7Vi5gfM é excelente e ajudou muito para começar a aprender sobre github actions.  
